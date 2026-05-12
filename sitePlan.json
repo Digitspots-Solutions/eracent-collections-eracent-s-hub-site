@@ -1,0 +1,49 @@
+{
+  "businessName": "Eracent Collections & Eracent's Hub",
+  "industry": "Manufacturing",
+  "tone": "Professional and Confident",
+  "tagline": "Quality Manufacturing Solutions for Nigeria's Growing Industries",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Eracent Collections & Eracent's Hub - Your Trusted Manufacturing Partner in Benin City. We deliver excellence in manufacturing with precision, reliability, and innovation. Proudly serving businesses across Edo State and beyond.",
+      "imagePrompt": "Modern industrial manufacturing facility in Nigeria, well-lit factory floor with advanced machinery, Nigerian workers in safety gear operating equipment, professional industrial environment, bright natural lighting, high-quality production line, clean organized workspace, Benin City industrial setting",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Eracent Collections & Eracent's Hub is a leading manufacturing company based in the heart of Benin City, Edo State. Located at No 5 Bankole Akpata Drive, Limit Road off Sapele Road in Ikpoba Okha, we are strategically positioned to serve businesses across Southern Nigeria. Our commitment to quality, efficiency, and customer satisfaction has made us a trusted name in the manufacturing sector. We combine modern production techniques with traditional Nigerian business values to deliver products that meet international standards while understanding local market needs.",
+      "imagePrompt": "Professional Nigerian manufacturing company exterior, modern industrial building in Benin City, well-maintained facility with company signage, paved parking area, Nigerian business environment, daytime shot with clear skies, professional corporate architecture",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Services",
+      "copy": "At Eracent Collections & Eracent's Hub, we offer comprehensive manufacturing solutions tailored to meet diverse industry needs. Our state-of-the-art facility in Benin City is equipped to handle various manufacturing processes with precision and efficiency. We specialize in custom manufacturing, bulk production, quality control, product development, and supply chain management. Whether you need small-batch production or large-scale manufacturing, our experienced team ensures every project meets the highest standards. We work with businesses across multiple sectors including retail, construction, agriculture, and consumer goods. Our flexible manufacturing capabilities allow us to adapt to your specific requirements while maintaining competitive pricing and timely delivery.",
+      "imagePrompt": "Diverse manufacturing processes in Nigerian factory, multiple production lines, quality control stations, workers inspecting products, modern machinery in operation, organized inventory systems, clean industrial environment, professional manufacturing setting in Nigeria",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose",
+      "name": "Why Choose Eracent",
+      "copy": "Choosing Eracent Collections & Eracent's Hub means partnering with a manufacturing company that understands the Nigerian business landscape. Our strategic location in Benin City provides easy access to major transportation routes, ensuring efficient logistics for raw material sourcing and product distribution. We pride ourselves on quality assurance with rigorous testing at every production stage. Our competitive pricing structure is designed to support Nigerian businesses of all sizes. We maintain strict adherence to delivery schedules because we understand that time is money in business. Our experienced management team brings decades of combined manufacturing expertise. We offer flexible payment terms to accommodate your business needs. Most importantly, we're committed to supporting local businesses and contributing to Nigeria's industrial growth.",
+      "imagePrompt": "Nigerian manufacturing success story, happy business owner shaking hands with factory manager, quality products on display, certificates and awards visible, professional Nigerian business meeting, modern office setting within industrial facility",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Contact Eracent Collections & Eracent's Hub today. Visit our facility at No 5 Bankole Akpata Drive, Limit Road off Sapele Road, Ikpoba Okha, Benin City, Edo State. Our team is available to provide consultations, facility tours, and detailed quotations for your project. Call us directly or message us on WhatsApp for immediate response. We're here to help transform your manufacturing vision into reality.",
+      "imagePrompt": "Professional Nigerian business contact center, friendly customer service representative on phone, modern office interior in Benin City, Nigerian staff assisting clients, welcoming reception area, professional business environment",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 816 940 0898",
+    "email": "info@eracentcollections.com",
+    "address": "No 5 Bankole Akpata Drive, Limit Road off Sapele Road, Ikpoba Okha, Benin City, Edo State, Nigeria",
+    "whatsapp": "https://wa.me/2348169400898"
+  }
+}
